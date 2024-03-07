@@ -31,5 +31,5 @@ https://ohksj77.tistory.com/201
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 
 
-![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=radical)
+![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
   
