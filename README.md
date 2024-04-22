@@ -32,4 +32,9 @@ https://ohksj77.tistory.com/201
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/clean2001" />
+</a>
   
