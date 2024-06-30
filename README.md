@@ -61,5 +61,6 @@ https://ohksj77.tistory.com/201
 # Etc
 ![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clean2001&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
