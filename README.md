@@ -61,5 +61,8 @@ https://ohksj77.tistory.com/201
 # Etc
 ![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
 
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=clean2001&layout=compact&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
 
   
