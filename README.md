@@ -62,4 +62,7 @@ https://ohksj77.tistory.com/201
 ![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clean2001&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/clean2001?pet-id=1" width="1000" height="120"/>
+</a>
   
