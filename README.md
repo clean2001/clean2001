@@ -28,7 +28,7 @@ https://ohksj77.tistory.com/201
 - [✏️테크 블로그](https://velog.io/@clean01/posts)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/clean2001?pet-id=5" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/clean2001?pet-id=7" width="1000" height="120"/>
 </a>
   
 
