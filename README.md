@@ -27,6 +27,7 @@ https://ohksj77.tistory.com/201
 
 - [✏️테크 블로그](https://velog.io/@clean01/posts)
 
+제가 키우는 java 병아리.. 어떠세용
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/clean2001?pet-id=10" width="1000" height="120"/>
 </a>
