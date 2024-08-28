@@ -35,8 +35,8 @@ https://ohksj77.tistory.com/201
 # Projects
 |프로젝트 명|설명|기간|깃허브 링크|
 |------|---|---|---|
-| Si-D Client |Designer와 Developer를 이어주는 사이드(Side) 프로젝트 플랫폼의 클라이언트입니다.|2024.07.19 ~ ing|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
-| Si-D Server |Designer와 Developer를 이어주는 사이드(Side) 프로젝트 플랫폼의 서버입니다.|2024.07.19 ~ ing|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
+| 🍾 Si-D Client |Designer와 Developer를 이어주는 사이드(Side) 프로젝트 플랫폼의 클라이언트입니다.|2024.07.19 ~ ing|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
+| 🍾 Si-D Server |Designer와 Developer를 이어주는 사이드(Side) 프로젝트 플랫폼의 서버입니다.|2024.07.19 ~ ing|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
 |Devi GUI|프로테오믹스 데이터 분석을 돕는 GUI입니다.|2023.02 ~ 2023.12|[devi gui](https://github.com/clean2001/MS_GUI_PROJECT)|
 |LOTTE OFF|드라이브 스루로 비대면 쇼핑을 지원하는 웹서비스입니다.|2020.10|[lotte off](https://github.com/clean2001/LOTTE_OFF)|
 
