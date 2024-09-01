@@ -72,7 +72,6 @@ https://ohksj77.tistory.com/201
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clean2001&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-제가 키우는 java 병아리.. 어떠세용
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/clean2001" width="1000" height="120"/>
 </a>
