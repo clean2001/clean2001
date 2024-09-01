@@ -27,10 +27,6 @@ https://ohksj77.tistory.com/201
 
 - [✏️테크 블로그](https://velog.io/@clean01/posts)
 
-제가 키우는 java 병아리.. 어떠세용
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/clean2001" width="1000" height="120"/>
-</a>
 
 # Projects
 |프로젝트 명|설명|기간|깃허브 링크|
@@ -75,4 +71,9 @@ https://ohksj77.tistory.com/201
 ![clean2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean2001&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clean2001&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+제가 키우는 java 병아리.. 어떠세용
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/clean2001" width="1000" height="120"/>
+</a>
 
