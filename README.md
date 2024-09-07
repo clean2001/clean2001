@@ -1,21 +1,7 @@
-<!-- ### Kim Sejeong --->
-
 <!-- 
 **clean2001/clean2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 https://ohksj77.tistory.com/201
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/clean2001" />
@@ -38,9 +24,6 @@ https://ohksj77.tistory.com/201
 |LOTTE OFF|드라이브 스루로 비대면 쇼핑을 지원하는 웹서비스입니다.|2020.10|[lotte off](https://github.com/clean2001/LOTTE_OFF)|
 
 # Skills
-
-
-
 
 ### Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
