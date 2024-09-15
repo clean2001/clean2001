@@ -11,7 +11,7 @@ https://ohksj77.tistory.com/201
 # Kim Sejeong | 고민하고 기록하는 개발자
 안녕하세요.🙌 고민과 기록을 즐기는 백엔드 개발자 김세정입니다. 🙂
 
-- [✏️테크 블로그](https://velog.io/@clean01/posts)
+- [✏️테크 블로그](https://onfonf.tistory.com)
 
 
 # Projects
