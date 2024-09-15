@@ -17,8 +17,8 @@ https://ohksj77.tistory.com/201
 # Projects
 |프로젝트 명|설명|기간|깃허브 링크|
 |------|---|---|---|
-| [🍾 Si-D Client](https://dev.si-d.site) |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 클라이언트입니다.|2024.07.19 ~ ing|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
-| [🍾 Si-D Server](https://dev.si-d.site) |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 서버입니다.|2024.07.19 ~ ing|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
+| [🍾 Si-D Client](https://dev.si-d.site) |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 클라이언트입니다.|2024.07.19 ~ 2024.09.06|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
+| [🍾 Si-D Server](https://dev.si-d.site) |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 서버입니다.|2024.07.19 ~ 2024.09.06|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
 | <img src="https://github.com/user-attachments/assets/63450938-1b1e-486b-bd41-8e59b509b26c" width="15px" height="15px" /> [Layer](https://layerapp.io) | 회고 작성의 어려움과 부담감을 덜어주며, 회고를 통해 성장을 위한 개선점을 설정하고 효율적으로 회고를 관리하는 데 도움을 주는 서비스입니다. |2024.06.29 ~ ing|[layer-server](https://github.com/depromeet/layer-server)|
 |Devi GUI|프로테오믹스 데이터 분석을 돕는 GUI입니다.|2023.02 ~ 2023.12|[devi gui](https://github.com/clean2001/MS_GUI_PROJECT)|
 |LOTTE OFF|드라이브 스루로 비대면 쇼핑을 지원하는 웹서비스입니다.|2020.10|[lotte off](https://github.com/clean2001/LOTTE_OFF)|
