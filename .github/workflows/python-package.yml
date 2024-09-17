@@ -1,0 +1,15 @@
+name: 디스코드 알림봇
+
+on:
+  schedule: # UTC+9 기준 오후 10시 실행
+    - cron:  "0 13 * * *"
+
+jobs:
+  message:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord Webhook Action
+      uses: tsickert/discord-webhook@v5.3.0
+      with:
+        webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+        content: "진행 상황 공유를... 부탁드립니닷 (바로가기: https://www.notion.so/103a79fce41c80078050eb840eebbe0c?pvs=4)"
