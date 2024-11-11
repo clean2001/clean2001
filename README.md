@@ -15,7 +15,7 @@ https://ohksj77.tistory.com/201
 
 
 # Projects
-|프로젝트 명|설명|기간|깃허브 링크|
+|프로젝트 명|설명|기간|Github|
 |------|---|---|---|
 | 🍾 Si-D Client |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 클라이언트입니다.|2024.07.19 ~ 2024.09.06|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
 | 🍾 Si-D Server |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 서버입니다.|2024.07.19 ~ 2024.09.06|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
