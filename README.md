@@ -18,7 +18,7 @@ https://ohksj77.tistory.com/201
 |프로젝트 명|설명|기간|Github|
 |------|---|---|---|
 | 🥦 동상이농 Client |농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 클라이언트입니다.|2024.09.07 ~ 2024.11.06|[dongsanginong-client](https://github.com/samtuap/dongsanginong-client)|
-| 🥦 동상이농 Server |농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 서버입니다.|2024.09.07 ~ 2024.11.06|[dongsanginong-server](https://github.com/samtuap/dongsanginong-server)|
+| 🥦 동상이농 Server |농산물 정기 구독 & 라이브 커머스 플랫폼 동상이농의 서버입니다.|2024.09.07 ~ 2024.11.06|[dongsanginong-server](https://github.com/samtuap/dongsanginong-server)|
 | 🍾 Si-D Client |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 클라이언트입니다.|2024.07.19 ~ 2024.09.06|[si-d-client](https://github.com/devjeans-si-d/Si-D-client)|
 | 🍾 Si-D Server |Designer와 Developer를 이어주는 사이드 프로젝트 모집 플랫폼 사이디의 서버입니다.|2024.07.19 ~ 2024.09.06|[si-d-server](https://github.com/devjeans-si-d/Si-D-server)|
 | <img src="https://github.com/user-attachments/assets/63450938-1b1e-486b-bd41-8e59b509b26c" width="15px" height="15px" /> [Layer](https://layerapp.io) | 회고 작성의 어려움과 부담감을 덜어주며, 회고를 통해 성장을 위한 개선점을 설정하고 효율적으로 회고를 관리하는 데 도움을 주는 서비스입니다. |2024.06.29 ~ ing|[layer-server](https://github.com/depromeet/layer-server)|
