@@ -12,9 +12,7 @@ https://ohksj77.tistory.com/201
 </a>
 -->
 
-I'm waving through a window
-
-[✏️블로그](https://onfonf.tistory.com)
+stupid hubris
 
 
 
